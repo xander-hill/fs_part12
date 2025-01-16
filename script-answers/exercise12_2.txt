@@ -1,0 +1,14 @@
+Script started on Thu Jan 16 17:36:11 2025
+Restored session: Thu Jan 16 17:21:00 CST 2025
+xanderhill@mspwmnf43a28d79 ~ % docker run -it ubuntu bash
+root@f655ce0a4480:/# mkdir -p /usr/src/app
+root@f655ce0a4480:/# touch /usr/src/app/index.js
+root@f655ce0a4480:/# exit  
+exit
+xanderhill@mspwmnf43a28d79 ~ % exit
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Thu Jan 16 17:37:33 2025
